@@ -18,7 +18,8 @@ function App() {
             <div className="mb-6">
               <h2 className="text-lg font-semibold text-gray-900 mb-2">Live Detection</h2>
               <p className="text-gray-600">
-                HELLO JITAM BHARADWAJ
+                This demo uses TensorFlow.js and the COCO-SSD model to detect objects in real-time
+                through your webcam. The model can recognize 80 different types of objects.
               </p>
             </div>
             
